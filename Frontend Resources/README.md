@@ -1,7 +1,5 @@
 ## Introduction
 
-[![Follow me](https://img.shields.io/twitter/follow/codingknite.svg?style=for-the-badge)](https://twitter.com/codingknite)
-
 This is a collection of resources for Frontend development.
 
 Most of the resources are free but we also included paid resources.
@@ -887,37 +885,3 @@ Be sure to read [How to Contribute](CONTRIBUTING.MD) before making your contribu
 ## Contributors ✨
 
 Thanks goes to these wonderful people
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://codingknite.com/"><img src="https://avatars.githubusercontent.com/u/70036189?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joel P. Mugalu</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=codingknite" title="Documentation">📖</a> <a href="#content-codingknite" title="Content">🖋</a> <a href="#maintenance-codingknite" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/ChinmayMhatre"><img src="https://avatars.githubusercontent.com/u/51131670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chinmay Mhatre</b></sub></a><br /><a href="#content-ChinmayMhatre" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=ChinmayMhatre" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://twitter.com/nghuuphuoc"><img src="https://avatars.githubusercontent.com/u/57786711?v=4?s=100" width="100px;" alt=""/><br /><sub><b>phuoc-ng</b></sub></a><br /><a href="#content-phuoc-ng" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=phuoc-ng" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://divjoy.com/"><img src="https://avatars.githubusercontent.com/u/1481077?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabe Ragland</b></sub></a><br /><a href="#content-gragland" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=gragland" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.imranbmohamed.com/"><img src="https://avatars.githubusercontent.com/u/71926855?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Imran Mohamed</b></sub></a><br /><a href="#content-i786m" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=i786m" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/AlexNodex"><img src="https://avatars.githubusercontent.com/u/17162626?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AlexNodex</b></sub></a><br /><a href="#content-AlexNodex" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=AlexNodex" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://arun.app/"><img src="https://avatars.githubusercontent.com/u/22396000?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arun</b></sub></a><br /><a href="#content-h7y" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=h7y" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://binyam.in/"><img src="https://avatars.githubusercontent.com/u/39805353?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Binyamin Aron Green</b></sub></a><br /><a href="#content-binyamin" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=binyamin" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://cssbattle.dev/"><img src="https://avatars.githubusercontent.com/u/379918?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Gour</b></sub></a><br /><a href="#content-chinchang" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=chinchang" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/nathsimpson"><img src="https://avatars.githubusercontent.com/u/12689383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nathan Simpson</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=nathsimpson" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://mintbean.io/"><img src="https://avatars.githubusercontent.com/u/4856944?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Monarch Wadia</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=monarchwadia" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://medium.com/@qjli"><img src="https://avatars.githubusercontent.com/u/75322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>QJ Li</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=qjnz" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://sayemon10.github.io/"><img src="https://avatars.githubusercontent.com/u/35277447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. M. Abdul Aziz</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=sayemon10" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/xerosic"><img src="https://avatars.githubusercontent.com/u/42121005?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xerosic</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=xerosic" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://zoranjambor.com/"><img src="https://avatars.githubusercontent.com/u/515906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zoran Jambor</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=ZoranJambor" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/jenniferfu0811"><img src="https://avatars.githubusercontent.com/u/25816882?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jenniferfu0811</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=jenniferfu0811" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://twitter.com/gvrizzo"><img src="https://avatars.githubusercontent.com/u/7696343?v=4&s=100" width="100px;" alt=""/><br /><sub><b>gvrizzo</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=guivr" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
