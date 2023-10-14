@@ -1,22 +1,3 @@
-# React Learning Resources
-## Beginner Resources
-### Tutorials
-### Videos
-### Documentation
-## Intermediate Resources
-### Tutorials
-### Videos
-### Documentation
-## Advanced Resources
-### Tutorials
-### Videos
-### Documentation
-
-# This code generates learning resources for React for beginners. It is designed to provide a comprehensive list of resources that cover the basics of React, including tutorials, videos, and documentation. The resources are organized by topic and difficulty level, making it easy for beginners to find the information they need to get started with React.
-
-# To use this code, simply run it in a Python environment. The output will be a list of learning resources for React, which can be used to supplement your own learning or shared with others who are just starting out with React
-
-
 # React (Arguably the most popular JavaScript framework)
 
 ## Platforms (Website)
@@ -27,7 +8,7 @@
 - [React Tutorial](https://react-tutorial.app/): Learn React in an interactive environment. Understand how React works not just how to build with React.
 - [Scrimba React](https://scrimba.com/learn/learnreact) Learn React js with projects.
 
-## Repos (Collections of github repositories of best react learning resources)
+## Repos (Collections of GitHub repositories of best react learning resources)
 
 - [Awesome React](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap): Comprehensive roadmap chart for becoming a React developer.
