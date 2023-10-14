@@ -5,3 +5,4 @@ The purpose of this repo is to contribute to it and push different learning reso
 # Contributor
 
 @Whizkevina - doc, content
+@MeetD99 - content

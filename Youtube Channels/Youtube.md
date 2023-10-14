@@ -278,6 +278,8 @@
 - [Pepcoding](https://www.youtube.com/c/Pepcoding/featured): Pepcoding is a channel for Data Structure and Algorithms in java and web development.They provide all of there content FREE OF COST.
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw): data structures and algorithms resources covering in depth explanation for variety of topics
 
+- [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) : This Playlist by Kunal Kushwaha teaches everything about the Java Programming language with introduction and advanced topics of Data Structures and Algorithms. It also introduces learners with some Interview Questions on every topics to get going!
+
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
@@ -312,6 +314,8 @@
 
 - [HackerSploit](https://m.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
+- [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL) : This Playlist by the Cyber Mentor teaches everythiong there is to get into Penetration Testing in Web Applications for Beginners and Learners.
+
 ### Capture the Flag
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
@@ -321,4 +325,9 @@
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo) : ByteByteGo is a channel that help people to learn about designing the systems and explains about the basics of several components.
 
 - [sudoCODE](https://www.youtube.com/c/sudoCODE) : sudoCODE is a great channel which explains about different design patterns, SOLID principles and many basics about the low level system design. Its a great channel not only for the freshers who is getting into the software field but also for the experienced one who can brush up and get more knowledge on the design.
+
+- [Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RvXrfflstJWgcPFQ_vTOV9) : System Design Series is a course series by the channel Coding Ninjas which specialises in teaching all from introduction to advanced concepts of System Design.
+
+- [SCALER](https://www.youtube.com/playlist?list=PLLhBy6YSIT0ANaihpjwDBSBju0qUZ82SK) : This playlist by Scaler is a Complete Zero to Hundred course series for learning Syustem Design for Beginners and Learners.
+
   **[Back To Top](#youtube-channels)**
