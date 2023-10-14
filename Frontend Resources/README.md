@@ -1,5 +1,6 @@
 ## Introduction
 
+
 This is a collection of resources for Frontend development.
 
 Most of the resources are free but we also included paid resources.
@@ -708,25 +709,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Matt Farley](http://mattfarley.ca/)
 - 🌐[Nathan Simpson](https://nathansimpson.design/)
 - 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios)
-
-[👆 Back To Top](#table-of-contents)
-
-## Youtube Channels
-
-- 🎥[Academind](https://www.youtube.com/c/Academind)
-- 🎥[Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
-- 🎥[Ben Awad](https://www.youtube.com/user/99baddawg)
-- 🎥[Coding Phase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-- 🎥[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-- 🎥[Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
-- 🎥[Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-- 🎥[freeCodeCamp](https://www.youtube.com/c/FreeCodeCamp)
-- 🎥[Keep On Coding](https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA)
-- 🎥[Programming With Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
-- 🎥[Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)
-- 🎥[The Net Ninja](https://youtube.com/c/TheNetNinja)
-- 🎥[Traversy Media](https://www.youtube.com/c/TraversyMedia)
-- 🎥[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/)
 
 [👆 Back To Top](#table-of-contents)
 
